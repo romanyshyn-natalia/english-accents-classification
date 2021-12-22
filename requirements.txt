@@ -1,0 +1,6 @@
+librosa
+torch
+pytorch_lightning
+torchaudio
+numpy
+pandas
