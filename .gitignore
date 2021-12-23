@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 accentdb_extended
+.idea
