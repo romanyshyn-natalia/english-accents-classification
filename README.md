@@ -38,7 +38,7 @@ For the current research, 742 samples for speaker_1 from **accentdb_extended**| 
 - results analysis.
 
 ## Results
-Wirh split of 70:30 between training and validation sets and, after the training with five epochs, the accuracy during the inference is 98%, which is quite remarkable.
+With split of 70:30 between training and validation sets and, after the training with five epochs, the accuracy during the inference is 98%, which is quite remarkable.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
